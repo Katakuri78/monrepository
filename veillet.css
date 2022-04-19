@@ -1,0 +1,11 @@
+.taille_image{
+    margin: 5px;
+}
+body{
+    font-size: 17px;
+    color: black;
+    line-height: 1.6;
+    background-image: url("https://img.freepik.com/photos-gratuite/fond-mur-blanc_24836-89.jpg?w=2000<");
+    background-position: center;
+    background-size: cover;
+}
